@@ -1,0 +1,5 @@
+{
+  "name": "NutriLens",
+  "description": "AI-Based Smart Meal Analyzer for tracking nutrition and health goals.",
+  "requestFramePermissions": ["camera"]
+}
